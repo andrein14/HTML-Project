@@ -1,5 +1,4 @@
 # Projects for JavaScript Course 2018
 [Step IT Academy, Bucharest](https://itstep.ro/)
 Trainer: @Dragos Dehelean
-* [Simple JavaScript Slideshow](https://dragosdehelean.github.io/javascript-projects/modul6.4/)
-* [Events practice](https://dragosdehelean.github.io/javascript-projects/modul6.6/)
+* [Semantic tags in page structure](https://andrein14.github.io/HTML-Project/2.2/index.html)
